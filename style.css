@@ -1,0 +1,133 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    max-width: 1110px;
+    margin: 0 auto;
+}
+
+.header{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.header ul{
+    display: flex;
+justify-content: center;
+gap: 50px;
+list-style: none;
+}
+
+.btn{
+    font-family: Public Sans;
+font-size: 15px;
+font-weight: 700;
+line-height: 17.63px;
+letter-spacing: -0.11538461595773697px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+width: 173px;
+height: 48px;
+border-radius: 24px 24px 24px 24px;
+background: #BA4270;
+box-shadow: 10px 10px 25px -10px #36536B40;
+display: flex;
+justify-content: center;
+align-items: center;
+border: none;
+color: white;
+}
+
+h1{
+    width: 546px;
+height: 243px;
+    font-family: DM Serif Display;
+font-size: 72px;
+font-weight: 400;
+line-height: 72px;
+letter-spacing: -0.5538461804389954px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #36536B;
+}
+
+.section-one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+}
+
+
+.section-one img{
+    width: 263px;
+height: 500px;
+}
+
+.section-two img{
+    width: 445px;
+height: 284px;
+top: 823px;
+left: 190px;
+border-radius: 8px 0px 0px 0px;
+box-shadow: 25px 25px 80px 0px #36536B4D;
+}
+
+h2{
+    font-family: DM Serif Display;
+font-size: 48px;
+font-weight: 400;
+line-height: 56px;
+letter-spacing: -0.3692307770252228px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+width: 445px;
+height: 56px;
+}
+
+
+p{
+    width: 445px;
+height: 84px;
+font-family: Public Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #6C8294;
+}
+
+.section-two{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+
+.btn1{
+    width: 106px;
+height: 106px;
+top: 1287px;
+left: 228px;
+border-radius: 50px;
+background-color: #36536B;
+border: none;
+}
+
+.btn1 img{
+    width: 39.91px;
+height: 49.71px;
+top: 1315px;
+left: 261px;
+}
+
+
